@@ -36,3 +36,8 @@ def test_question4_only_owned_by_bessie():
   assert len(rows) == 2
   assert rows[0] == ('bessie', 'leyla', 'gray whale')
   assert rows[1] == ('bessie', 'randolph', 'lemur')
+
+
+
+
+
